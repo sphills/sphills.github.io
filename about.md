@@ -1,4 +1,4 @@
-# Sage Phillips
+# Sage Phillips [#](../)
 
 ### Currently working at Civil Design, Inc. as a Computer Science Intern (May '24 - Aug '24)
 #### [C#, .NET 6, MS SQL, SQL Server Express]
