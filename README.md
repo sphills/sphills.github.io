@@ -1,5 +1,5 @@
-# Hi, my name is [Sage](/about)!
+# Hi, my name is Sage ([about me](/about))!
 
 ### Just checking in with you, seeing how you're doing.
 
-I'm working this summer (2024) at Civil Design Inc. as a Computer Science intern, and I'm using C# in .NET 6
+I'm working this summer (2024) at Civil Design Inc. as a Computer Science intern, and I'm using C# in .NET 6 to communicate with a MS SQL server.
