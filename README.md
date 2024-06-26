@@ -76,4 +76,4 @@ Eventually, I ceased development (i.e., gave up) and began learning Java, in hop
 
 And that's a little about me! I hope you enjoyed.
 
-- *Sage*
+\- *Sage*
