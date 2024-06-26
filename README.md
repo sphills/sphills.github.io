@@ -7,7 +7,7 @@ Any questions, feel free to email me at [sagphil@siue.edu](mailto:sagphil@siue.e
 
 Take a look at my <a href="https://www.linkedin.com/in/sagephillips/" target="_blank">LinkedIn profile</a>!
 
-I'm available for freelance work, and have some examples of some simple frontend-focused projects with a little bit of using the `fetch` API in JavaScript.
+I'm available for freelance work, and have some examples of some simple frontend-focused projects with a little bit of using the `fetch` API in JavaScript:
 
 <a href="https://sphills.github.io/dmz_missions/" target="_blank">A responsive mockup for a web app integration with Activision's Modern Warfare II side mode *DMZ* where a player can keep track of their mission completion status can be found here</a>.
 
