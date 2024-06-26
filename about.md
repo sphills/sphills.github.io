@@ -1,4 +1,4 @@
-# Hi, my name is Sage ([about me](/about))!
+# Hi, my name is Sage ([front page](../))!
 
 ### Just checking in with you, seeing how you're doing.
 
