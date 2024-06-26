@@ -8,7 +8,7 @@ I'm working this summer (2024) at Civil Design Inc. as a Computer Science intern
  - MS SQL
  - Database schema design
 
-<a href="https://sphills.github.io/dmz_missions/" target="_blank">Here's a responsive mockup for a web app integration with Activision's Modern Warfare II side mode *DMZ* where a player can keep track of their mission completion status can be found here</a>.
+<a href="https://sphills.github.io/dmz_missions/" target="_blank">Here's a responsive mockup for a web app integration with Activision's Modern Warfare II side mode *DMZ* where a player can keep track of their mission completion status</a>.
 
 I'm an adult learner returning to higher education after 6 years in the United States Air Force. During my time in the Air Force, I met so many different and awesome people who I still keep in touch with. It turns out that shared experiences, even if they're not the exact same experience, makes for quick and strong bonds. By the end of my enlistment, I was honored to be given a Supervisor of the Month award, named Subject Matter Expert in my mission set, and made the first supervisory rank of Staff Sergeant.
 
