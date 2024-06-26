@@ -1,5 +1,6 @@
-# Sage Phillips [about me](./about.md)
-## Currently working at Civil Design, Inc. as a Computer Science Intern (May '24 - Aug '24)
+# Sage Phillips ([about me](./about.md))
+## Computer Science Intern at Civil Design, Inc. (May '24 - Aug '24)
+### Making a civil engineering SaaS
 ### [C#, C++, .NET 6, MS SQL, SQL Server Express]
 
 Any questions, feel free to email me at [sagphil@siue.edu](mailto:sagphil@siue.edu).
