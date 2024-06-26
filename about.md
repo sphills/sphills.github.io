@@ -3,7 +3,9 @@
 ### Currently working at Civil Design, Inc. as a Computer Science Intern (May '24 - Aug '24)
 #### [C#, .NET 6, MS SQL, SQL Server Express]
 
-Any questions, feel free to email me at [sagphil@siue.edu](mailto:sagphil@siue.edu)
+Any questions, feel free to email me at [sagphil@siue.edu](mailto:sagphil@siue.edu).
+
+Take a look at my <a href="https://www.linkedin.com/in/sagephillips/" target="_blank">LinkedIn profile</a>!
 
 I'm available for freelance work, and have some examples of some simple frontend-focused projects with a little bit of using the `fetch` API in JavaScript.
 
